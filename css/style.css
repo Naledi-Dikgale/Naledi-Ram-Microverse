@@ -1,0 +1,14 @@
+*{
+  text-align: center;  
+  font-family: 
+}
+#img-div {
+background-color: rgba(90, 90, 90, 0.993);
+}
+#image {
+    width: 60% ;
+}
+#img-caption {
+    color: white;
+    font-size: 20px;
+}
